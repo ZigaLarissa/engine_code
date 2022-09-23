@@ -1,0 +1,2 @@
+.in order to have ur remote repository on Github on your pc terminal use git clone command
+
